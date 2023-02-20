@@ -1,2 +1,8 @@
 # node-build02
-Sign-up Form
+
+## Sign Up 
+
+#### Module
+- Express
+- Body Parser
+
